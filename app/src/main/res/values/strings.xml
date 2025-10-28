@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battle Test Esp</string>
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="hello_user">¡Hola, %1$s!</string>
+    <string name="points">PUNTOS</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="average">Promedio</string>
+    <string name="time">Tiempo</string>
+    <string name="achievements_obtained">🏆 Logros Obtenidos (%1$d)</string>
+    <string name="no_achievements">🏆 Aún no tienes logros</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Perfil</string>
+    <string name="progress_by_subject">Progreso por Asignatura</string>
+    <string name="achievements">Logros</string>
+    <string name="level_points">Nivel %1$d • %2$d puntos</string>
+
+    <!-- Subjects -->
+    <string name="subjects_title">Asignaturas</string>
+    <string name="search_subject">Buscar asignatura…</string>
+
+    <!-- Quiz -->
+    <string name="back">Regresar</string>
+    <string name="next">Siguiente</string>
+    <string name="completed">completados</string>
+
+    <!-- Achievements -->
+    <string name="achievement_locked">🔒 Este logro aún no está disponible.</string>
+    <string name="achievement_unlocked">⭐ ¡Completa los requisitos para obtener %1$s!</string>
+    <string name="achievement_earned">🏆 Obtenido el %1$s</string>
+    <string name="achievement_reward">💰 Recompensa: %1$s</string>
+    <string name="close">Cerrar</string>
+
+    <!-- Progress -->
+    <string name="level_progress">%1$d pts para\nsiguiente nivel</string>
+    <string name="level_max">¡Nivel máximo!</string>
+    <string name="achievements_title">🏆 Logros Obtenidos (%1$d)</string>
+    <string name="no_achievements_yet">🏆 Aún no tienes logros</string>
+    <string name="activity_streak">Racha: %1$d día</string>
+    <string name="activity_days">días</string>
+    <string name="quizzes_completed">%1$d/%2$d quizzes</string>
+
+    <!-- General -->
+    <string name="level">Nivel %1$d</string>
+    <string name="streak_day">Racha: %1$d día</string>
+    <string name="welcome">¡Bienvenido!</string>
+
+    <!-- Weekly Activity -->
+    <string name="weekly_activity">📊 Actividad Semanal</string>
+    <string name="streak_text">🔥 Racha: %1$d día</string>
+    <string name="streak_days">🔥 Racha: %1$d días</string>
+
+    <!-- Subjects Names -->
+    <string name="biology">Biología</string>
+    <string name="physics">Física</string>
+    <string name="chemistry">Química</string>
+    <string name="mathematics">Matemáticas</string>
+    <string name="questions">%1$d preguntas</string>
+
+    <!-- Registration -->
+    <string name="welcome_title">¡Bienvenido a Battle Test!</string>
+    <string name="name_placeholder">Tu nombre</string>
+    <string name="email_placeholder">Tu email</string>
+    <string name="start_adventure">Comenzar Aventura</string>
+    <string name="error_title">Error</string>
+    <string name="complete_fields">Por favor completa todos los campos</string>
+    <string name="ok_button">OK</string>
+
+    <!-- Results -->
+    <string name="results_title">Resultados</string>
+    <string name="quiz_completed">Cuestionario completado</string>
+    <string name="answered_correctly">Respondiste correctamente %1$d de\n%2$d preguntas</string>
+    <string name="errors_made">Errores cometidos: %1$d</string>
+    <string name="time_taken">Tiempo: %1$s</string>
+    <string name="passed">¡Aprobado! ✓</string>
+    <string name="failed">No aprobado ✗</string>
+    <string name="new_achievements">🏆 ¡Nuevos logros obtenidos!</string>
+    <string name="continue_button">Continuar</string>
+
+    <!-- Achievement Names -->
+    <string name="achievement_sonic">Sonic</string>
+    <string name="achievement_flash">Flash</string>
+    <string name="achievement_lightning">Lightning</string>
+    <string name="achievement_sniper">Sniper</string>
+    <string name="achievement_eagle_eye">Eagle Eye</string>
+    <string name="achievement_perfect_shot">Perfect Shot</string>
+    <string name="achievement_steady">Steady</string>
+    <string name="achievement_reliable">Reliable</string>
+    <string name="achievement_unstoppable">Unstoppable</string>
+    <string name="achievement_curious">Curious</string>
+    <string name="achievement_explorer">Explorer</string>
+    <string name="achievement_scholar">Scholar</string>
+    <string name="achievement_perfectionist">Perfectionist</string>
+    <string name="achievement_master">Master</string>
+    <string name="achievement_legend">Legend</string>
+
+    <!-- Achievement Descriptions -->
+    <string name="achievement_sonic_desc">Responde en menos de 15 segundos por pregunta con 70% aciertos</string>
+    <string name="achievement_flash_desc">Responde en menos de 10 segundos por pregunta con 70% aciertos</string>
+    <string name="achievement_lightning_desc">Responde en menos de 7 segundos por pregunta con 70% aciertos</string>
+    <string name="achievement_sniper_desc">Obtén 100% en un quiz de mínimo 5 preguntas</string>
+    <string name="achievement_eagle_eye_desc">Obtén 100% en 3 quizzes consecutivos</string>
+    <string name="achievement_perfect_shot_desc">Obtén 100% en todas las materias</string>
+    <string name="achievement_steady_desc">Estudia 3 días consecutivos</string>
+    <string name="achievement_reliable_desc">Estudia 7 días consecutivos</string>
+    <string name="achievement_unstoppable_desc">Estudia 14 días consecutivos</string>
+    <string name="achievement_curious_desc">Explora 2 materias diferentes</string>
+    <string name="achievement_explorer_desc">Explora 3 materias diferentes</string>
+    <string name="achievement_scholar_desc">Explora todas las materias</string>
+    <string name="achievement_perfectionist_desc">Obtén 100% en 5 quizzes diferentes</string>
+    <string name="achievement_master_desc">Obtén 100% en 10 quizzes diferentes</string>
+    <string name="achievement_legend_desc">Obtén 100% en menos de 5 segundos por pregunta</string>
+
+    <!-- Quiz Questions Sample - Biology -->
+    <string name="bio_q1">¿Qué tipo de células NO tienen núcleo definido?</string>
+    <string name="bio_q1_a">Eucariotas</string>
+    <string name="bio_q1_b">Procariotas</string>
+    <string name="bio_q1_c">Animales</string>
+    <string name="bio_q1_d">Vegetales</string>
+
+    <string name="bio_q2">¿Cuál es la función principal del ADN?</string>
+    <string name="bio_q2_a">Producir energía</string>
+    <string name="bio_q2_b">Almacenar información genética</string>
+    <string name="bio_q2_c">Digerir alimentos</string>
+    <string name="bio_q2_d">Transportar oxígeno</string>
+
+    <!-- Quiz Screen -->
+    <string name="question">Pregunta %1$d/%2$d</string>
+    <string name="points_label">Puntos: %1$d/%2$d</string>
+    <string name="errors_label">Errores: %1$d/%2$d</string>
+    <string name="previous">Anterior</string>
+    <string name="validate">Validar</string>
+    <string name="continue_learning">Continúa tu aprendizaje</string>
+    <string name="user">Usuario</string>
+    <string name="congratulations">¡Felicidades!</string>
+    <string name="score">Puntuación</string>
+    <string name="return_home">Volver al inicio</string>
+    <string name="keep_practicing">Sigue practicando</string>
+</resources>
