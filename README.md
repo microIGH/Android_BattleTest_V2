@@ -274,7 +274,7 @@ fun toStringList(value: String): List<String>
 - [ ] Análisis de rendimiento por materia
 - [ ] Notificaciones push para rachas
 
-## 🤝 Decisiones de Diseño (HIAC Methodology)
+## 🤝 Decisiones de Diseño
 
 | Decisión | Alternativa | Justificación |
 |----------|-------------|---------------|
